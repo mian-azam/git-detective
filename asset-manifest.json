@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/git-detective/static/js/main.8b86dff9.js",
+    "main.css": "/git-detective/static/css/main.28f53da8.css",
+    "main.js": "/git-detective/static/js/main.17e09cf1.js",
     "index.html": "/git-detective/index.html",
-    "main.8b86dff9.js.map": "/git-detective/static/js/main.8b86dff9.js.map"
+    "main.28f53da8.css.map": "/git-detective/static/css/main.28f53da8.css.map",
+    "main.17e09cf1.js.map": "/git-detective/static/js/main.17e09cf1.js.map"
   },
   "entrypoints": [
-    "static/js/main.8b86dff9.js"
+    "static/css/main.28f53da8.css",
+    "static/js/main.17e09cf1.js"
   ]
 }
