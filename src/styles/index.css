@@ -182,6 +182,10 @@ span{
     color: #008000;
     font-size: large;
 }
+
+.link>p:hover{
+    color: #FFA500;
+}
 .repoHead{
     margin-top: 20px;
     color: #800080;
